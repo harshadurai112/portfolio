@@ -1,0 +1,39 @@
+#include<iostream>
+return type-int main(){
+
+     void main(){
+	 
+	 
+	 
+	 
+	 
+	 }
+  cout<<"welcome to skcet"<<endl;
+  return 0;
+}
+
+
+
+# indication header file 
+include keyword 95-100 keywords 
+headerfiles- class- iostream 
+    
+	
+	main function 
+	     return 0 mentions true
+		 return 1 mentions false 
+    common function
+	      return 1 true
+		  return 0 false 
+		  
+		  
+ if its int main function 
+          must return any integer value
+for int a=0;
+       return a ;
+	   
+	   
+	   
+cin dynamic input from the user 
+cin  character input 
+cerr character error 
